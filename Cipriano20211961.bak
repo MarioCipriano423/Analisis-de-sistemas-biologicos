@@ -12,7 +12,7 @@
 %TCIDATA{Version=5.50.0.2953}
 %TCIDATA{<META NAME="SaveForMode" CONTENT="1">}
 %TCIDATA{BibliographyScheme=BibTeX}
-%TCIDATA{LastRevised=Monday, May 12, 2025 15:38:42}
+%TCIDATA{LastRevised=Monday, May 19, 2025 15:17:02}
 %TCIDATA{<META NAME="GraphicsSave" CONTENT="32">}
 %TCIDATA{ComputeDefs=
 %$R$
@@ -29,7 +29,7 @@
 \begin{document}
 
 \title{Analisis de sistemas biologicos}
-\author{Fernandez Esquivel Hector Andres $\left[ 21212153\right] $ \\
+\author{Mario Tolentino Cipriano Camacho $\left[ 20211961\right] $ \\
 %EndAName
 Departamento de Ingenier\'{\i}a El\'{e}ctrica y Electr\'{o}nica\\
 Tecnol\'{o}gico Nacional de M\'{e}xico / Instituto Tecnol\'{o}gico de Tijuana%
@@ -39,7 +39,7 @@ Tecnol\'{o}gico Nacional de M\'{e}xico / Instituto Tecnol\'{o}gico de Tijuana%
 \noindent \textbf{Palabras clave: }Palabra clave 1; Palabra clave 2; Palabra
 clave 3; Palabra clave 4; Palabra clave 5.
 
-\noindent Correo: \textbf{l21212153@tectijuana.edu.mx}
+\noindent Correo: \textbf{l20211961@tectijuana.edu.mx}
 
 \noindent \noindent Carrera: \textbf{Ingenier\'{\i}a Biom\'{e}dica }
 
@@ -483,18 +483,18 @@ $\func{assume}\left( d_{3},\func{positive}\right) =\allowbreak \left(
 \begin{eqnarray*}
 &&\left[ x=\frac{d_{3}}{r_{3}-a_{31}},y=0,z=-\frac{1}{%
 r_{3}a_{13}-a_{13}a_{31}}\left(
--r_{1}r_{3}+r_{1}a_{31}+b_{1}d_{3}r_{1}\right) \right]  \\
+-r_{1}r_{3}+r_{1}a_{31}+b_{1}d_{3}r_{1}\right) \right] \\
 &&\left[ x=\frac{d_{3}}{r_{3}-a_{31}},y=-\frac{1}{%
 b_{2}r_{2}r_{3}-b_{2}r_{2}a_{31}}\left(
 d_{3}a_{21}-r_{2}r_{3}+r_{2}a_{31}\right) ,z=\frac{1}{%
 b_{2}r_{2}r_{3}a_{13}-b_{2}r_{2}a_{13}a_{31}}\left(
 d_{3}a_{12}a_{21}-r_{2}r_{3}a_{12}+r_{2}a_{12}a_{31}+b_{2}r_{1}r_{2}r_{3}-b_{2}r_{1}r_{2}a_{31}-b_{1}b_{2}d_{3}r_{1}r_{2}\right) %
-\right]  \\
+\right] \\
 &&\left[ x=\frac{1}{a_{21}}\left( r_{2}-b_{2}r_{2}\frac{%
 r_{1}a_{21}-b_{1}r_{1}r_{2}}{a_{12}a_{21}-b_{1}b_{2}r_{1}r_{2}}\right) ,y=%
 \frac{r_{1}a_{21}-b_{1}r_{1}r_{2}}{a_{12}a_{21}-b_{1}b_{2}r_{1}r_{2}},z=0%
-\right]  \\
-&&\left[ x=0,y=0,z=0\right] 
+\right] \\
+&&\left[ x=0,y=0,z=0\right]
 \end{eqnarray*}
 
 \bigskip $\func{assume}\left( \rho _{i},\func{positive}\right) =\allowbreak
@@ -555,7 +555,7 @@ por lo tanto, se despeja el parametro de tratamiento/terapia o control:%
 
 y se establece el siguiente resultado:
 
-\bigskip 
+\bigskip
 
 \textbf{Resultado IV: Condiciones de eliminacion.}\textit{\ Si la siguiente
 condicion se cumple:}%
@@ -575,18 +575,18 @@ por la variable }$x(t)$\textit{, es decir,}%
 \dot{z} &=&(r_{3}-a_{31})xz-d_{3}z+\rho _{i},
 \end{eqnarray*}
 
-\bigskip 
+\bigskip
 
-\bigskip 
+\bigskip
 
-\bigskip 
+\bigskip
 
-\bigskip 
+\bigskip
 
-\bigskip 
+\bigskip
 
-\bigskip 
+\bigskip
 
-\bigskip 
+\bigskip
 
 \end{document}
